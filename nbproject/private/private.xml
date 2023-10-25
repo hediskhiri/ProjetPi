@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/ServiceMaintenance.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/IserviceStation.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/card.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/dashboard.css</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/NewFXMain.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/Maintenance.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/BackreclController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/IserviceVelo.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/IServiceReclamation.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/IServiceReponse.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/FrontController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Ajoutstation.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/PanierProduitService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/statics.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/userr.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/Station.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/DashboardRecl.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Login.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/AjouterProduit.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/ServiceVelo.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/AjoutermaintenanceController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Statics.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/AjouterReclamationController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/ServiceReclamation.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/ServiceProduit.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/Reclamation.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/hello-view.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/AjoutstationController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/IserviceMaintenance.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/AjouterReclamation.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Dashboard.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/DashboardReclController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/LoginController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/TypeRec.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/IService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/ServiceReponse.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Backoffice.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Backrecl.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Front.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/workshopjdbc/MainApp.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Ajoutermaintenance.fxml</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/BackController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/Velo.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/HelloController.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/ServiceStation.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/services/EmailService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/front/produit/css.css</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/gui/Dashboard.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/HHTRHRH/Workshophedi/src/tn/edu/esprit/entities/utilisateur.java</file>
+        </group>
+    </open-files>
+</project-private>
